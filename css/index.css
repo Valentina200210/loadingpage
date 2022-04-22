@@ -236,6 +236,27 @@ footer .container{
     color: black;
     font-size:20px;
 	}
+
+  .form form{
+    font-size:30px;
+    max-width:700px;
+    max-height:700px;
+    widht:70%;
+    margin:0;
+    padding:0;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .form form input{
+    text-aling:center;
+    margin:3px auto;
+    padding:0;
+    max-width:500px;
+    max-height:300px;
+    width:50%;
+    height:100%;
+  }
 	
 	#participantes .programas{
 		display: flex;
@@ -251,12 +272,4 @@ footer .container{
 	#participantes .carta{
 		padding: 15px;
 	}
-
-  .form form{
-    font-size:16px;
-    max-width:300px;
-    widht:70%;
-    flex-direction:colum;
-    
-  }
 
